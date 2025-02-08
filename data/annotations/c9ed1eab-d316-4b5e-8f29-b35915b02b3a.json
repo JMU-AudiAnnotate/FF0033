@@ -1,5 +1,4143 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 4,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the recent anthology from Harper Collins Press, so if you're interested in a character you can find out a little bit more about it. About her rather. \"Witnessing the vernacular project\", Alma said into the microphone, ''The Black Back-ups, by Kate Rushin. She stepped around the table, a stack of photocopies held lightly in her arm and, smiling now, she divided the pile among several people sitting in the first row of chairs in the small lecture hall, indicating that each should take a copy and pass the rest on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "5d4caed4-6270-4632-9c65-d3c11582f7c2"
+    },
+    {
+      "start_time": 37,
+      "end_time": 57,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Had \"project\" sounded a little pretentious, she wondered. She had rejected aspects of the vernacular as conventional beyond bearing. 'Too white boy,' Thelma had called it and 'vernacular element-- elements' had sounded well, too elementary, especially before this audience of literary scholars."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "3e938dcc-090c-40e8-8a4d-2d6114c933ff"
+    },
+    {
+      "start_time": 57,
+      "end_time": 75,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There had been no cries of outrage when she announced her title of course-- Alma had the grace to laugh at herself-- but, she observed silently, there had been no other reactions either. She resumed her seat behind the table with the other panelists, folded her hands atop it and looked out at the audience, saying nothing. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "ed722a10-1bc9-4e34-83db-5a3e6e75a57e"
+    },
+    {
+      "start_time": 75,
+      "end_time": 94,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It wasn't unheard of for historians to talk about poetry and culture. Though, Alma admitted, they usually did so uninvited by literary scholars, who seemed at this blush anyway to be less territorial than historians-- which Alma was, and apparently better known than she thought-- or philosophers for that matter."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "fc752632-2766-4b66-9773-96b418ef6256"
+    },
+    {
+      "start_time": 94,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still, the invitation to talk about the vernacular, common everyday speech, and Afro-American culture at a national conference on Afro-American poetry had come as a surprise to her. She was a Victorianist by training and Afro-Americanist almost by default. Of course, much of her work on the Diaspora was drawn from unwritten sources, oral tellings, a so-called vernacular source."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "525dd73e-7749-46c1-8389-1cf30726194a"
+    },
+    {
+      "start_time": 120,
+      "end_time": 142,
+      "annotation": [
+        {
+          "text": "Her lips twisted wryly, vernacular was from the Latin word "
+        },
+        {
+          "text": "vernaculus",
+          "italic": true
+        },
+        {
+          "text": ", meaning \"domestic\". According to Webster, its root word "
+        },
+        {
+          "text": "verna",
+          "italic": true
+        },
+        {
+          "text": " meant home-born slave. The African sources of her work were not from slaves, their language was not common or every day, though it was spoken and in some cases never written down until she transcribed it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "53e8554f-3d1d-41b6-80a8-9941bb7ae168"
+    },
+    {
+      "start_time": 142,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only wealthy Africans or those otherwise renowned were named in the accounts passed on by word-of-mouth and retold and sung in each generation. Oral culture would always come out on the short end of the stick when pitted against written records, Alma thought glumly. It was only a poem because it was written. If it didn't work on the page, it didn't work at all. If it could not be recorded, it didn't exist beyond the moment."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "9ea031f8-e7f7-4881-b9f9-5c6643d33b14"
+    },
+    {
+      "start_time": 168,
+      "end_time": 192,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The only thing, Alma thought again, that had saved \"negros\" from extinction was radio and records, which would also be the instrument of our destruction, for hadn't records especially laid bare the very heart of the culture for every enterprising white boy in the world to bleed? \"Negro\" was the common everyday speech of America, and any poetry that called itself African American couldn't help but be steeped in it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "fecb77e1-14c1-48a5-bcc0-10c9fe76301a"
+    },
+    {
+      "start_time": 192,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Vernacular in that old sense, was an apt description of New World Africans, those Afro-Brazilians and Afro-Cubans, Afro-Americans descended from the kidnapped and enslaved: verna, home-born slave, and thus the continuing binary between slave and master. Seemed to make little difference that they were also descended from the slave owners too, as well as the slave, by culture if not by actual blood."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "7b0961a0-46e6-4337-b830-d847aa5bcddf"
+    },
+    {
+      "start_time": 218,
+      "end_time": 243,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Her history, the very intellectual tradition in which she labored, always came back to slavery. And, historian though she was, Alma was tired of slavery. Took too much time in the conversation to review the century-old horrors, but one could not assume that everyone knew them or understood that slavery affected people's lives long after its abolition. Thank goodness this audience would know all that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "ca1ce5da-2e27-4436-bc1d-14c92112b61d"
+    },
+    {
+      "start_time": 243,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Still, no one in it had yet spoken. Alma looked down at the paper before her. \"Kate Rushin, The Black Back-ups. This is dedicated to Mary Clayton, Cissy Hous--\", and was caught as she had been on first reading by Clayton's name hearing that powerful alto bellowing \"got a case of the steam ro-o-o-o-ola\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "e9db75c8-05e9-4d0a-9c82-d15a42906d1a"
+    },
+    {
+      "start_time": 266,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The word drawn out, then the voice fading to silence. \"Tap, tap\", a cowbell beaten by a drumstick. \"Three, four\", a lone off-mic male voice: \"bluuuuues.\" Alma tore her eyes away lest she be drawn completely into the world of the poem. Neither project nor element seemed an adequate description of the wild invention and fusion that seemed renewed and expanded at each reading of the poem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "bcba85f9-57f4-4edf-a527-3d9cc1c399e5"
+    },
+    {
+      "start_time": 277,
+      "end_time": 279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Song"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "fd87eb95-547c-4174-bead-4eee394535c2"
+    },
+    {
+      "start_time": 293,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, Alma told herself now, \"project\" was both mask-on-image and buzzword and she could not help but be pleased with her title. If she let it, the names in the poem would draw her on as they must now be drawing the audience past the dedication into narrative plaint so widely voiced it was now almost formula."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "022fa1d0-07f6-4f31-92f4-59971a3fe977"
+    },
+    {
+      "start_time": 314,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Bump up against old ironies cast in a new light, half forgotten memories revealed now as rites of passage, phrases playfully turned and twisted, the reader made into part of the chorus-- not the doo-wop girls the white boys rave about but the girls who sang back-up on There is Something on Your Mind. The parody: \"do do do doo doo, do do do doo doo.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "d4d897ee-248e-4362-9512-138f5f551ee8"
+    },
+    {
+      "start_time": 333,
+      "end_time": 336,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Song"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "39099880-9c18-4dfe-a091-a1d60f6e1c8b"
+    },
+    {
+      "start_time": 336,
+      "end_time": 362,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, Alma told herself. Even nodded a little. There would be plenty of discussion when they finished reading. Smiling slightly, she leaned forward. Thelma had actually thought she was doing Alma a favor when she'd suggested Alma's name for this panel. Thelma wrote about the broad range of Black woman's literature, though in recent years, she had focused her attention on the rich turn-of-the-century period, and the first literary outpourings of the free people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "436d340a-e5b7-4611-91cb-d403255832f7"
+    },
+    {
+      "start_time": 362,
+      "end_time": 389,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alma had some interest in the period-- had met Thelma at a couple of conferences and been drawn by the sharp womanist analysis the sister brought to every discussion. Alma had temporized about the invitation. She read some poetry of course, and fiction, but to talk about either one to an audience of people who talked and wrote about them for a living, held no appeal to her. She would check her schedule, she told the voice on the phone, get back to them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "1d1a5ae5-c15f-4c75-8782-a54a954ed195"
+    },
+    {
+      "start_time": 389,
+      "end_time": 414,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She called Thelma. \"Just talk about what you know,\" Thelma said. Non-literary sources of cultural documentation and occupa- and academic scholarship sounded dull as dust at a poetry conference, Alma objected. \"Then just do a conventional history. After all, history is your thing\", outlining uses of the vernacular and literary poetry, a development with which Alma was at least somewhat familiar."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "b3774110-4c57-471c-9de5-c54f077ad2d9"
+    },
+    {
+      "start_time": 414,
+      "end_time": 439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Identifying vernacular idioms and literate sources was a way of documenting traditionalist sentiment otherwise unrecorded among pre-literate peoples. And Alma had began her research with Lucy Terry Prince: \"Eunice Allen see the Indians coming,/ And hope to save herself by running,// And had not her petticoats stopped her/, The awful creatures had not catched her,/ and Tommy hawked her on the ground for dead\"."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "5179cc76-c4f6-4217-87f4-b27d47347ed8"
+    },
+    {
+      "start_time": 439,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alma's lips quirked at the grim humour of the remembered lines, though it taken a graduate student to make her see that humor in the rough rhythms of Terry's lines. Her notes highlighted Paul Laurence Dunbar's contributions \"in removing\", as his contemporary James Weldon Johnson had said, \"much of the coarse negro-ness\" from the so-called \"negro dialect\" coined by whites at the turn of the century. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "5b26be92-197c-49bb-bdbb-e941aa4b4a52"
+    },
+    {
+      "start_time": 463,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And she contrasted him with his contemporary James Weldon Johnson, who had taken the process even further, preparing a field for the authentic dictions of Langston Hughes and Sterling Brown. And so on, and so forth."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "e235cd58-98aa-437a-96be-c79c1f549d2e"
+    },
+    {
+      "start_time": 482,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Even now, Alma was a little saddened by the musical about Paul Laurence Dunbar and James Weldon Johnson's: the time that each of these had spent on Broadway that had never been written, would probably never be, at least in her lifetime, written. Nor would the tragedy of their split, of the split literary persona, that neither they nor their lineal descendant Sterling Brown had ever overcome."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "d470fbe8-9599-4012-94a7-5a09331ebad0"
+    },
+    {
+      "start_time": 509,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One voice to speak for the people -- the folk who can't make the book talk for themselves -- another \"standard voice\" to speak for little-old-college-educated-me. She would never see a performance of Ask Your Mama, or the animated feature that should have been made from Montage on a Dream Deferred. Alma lamented and played the blues while she read, took notes, wrote, but convention hadn't worked. Not even when she fell back on style: the kind of anecdotal irreverent chitchat she and Thelma often shared about the period."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "c43181bb-f2ab-44db-bfe3-f1c0c24d2206"
+    },
+    {
+      "start_time": 539,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Papers rustled in the audience. A chair scraped. Alma looked out at the people. Maybe that was what they came for-- convention, what she should have given them. But she hadn't found the words for even that. \"You could talk about violence as vernacular\", Pearl had said when Alma consulted her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "d9dc1a2b-99e5-4f45-9683-a494549d57de"
+    },
+    {
+      "start_time": 558,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Pearl was a writer, novelist (little known), and journalist. She actually earned a close but stable living from the reams of opinions, interviews, features and ghosted speeches that streamed from her printer. Pearl made Alma listen to Baraka's poem For my Father-in-law, but just the mention of Amiri Baraka's name, aka Leroy Jones, made Alma uneasy."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "ff145fac-0929-4397-bf4f-482a539f59d9"
+    },
+    {
+      "start_time": 580,
+      "end_time": 608,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Baraka was part of the madness of the '70s, coined traditions and a violent-- and a vicious chauvinism. She'd said none of this aloud, of course. Time was too short to be getting into an argument with Pearl. Besides, and this she had said aloud, Leroy did his best work in the post-Beat period, the late '50s and early '60s. \"It's the politics, isn't it? his radical Marxism?\" Pearl had taunted and shoved a book open to the \"Crow, Jane\" series under Alma's nose."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "0aa9c72c-94d9-445d-9446-5189f9bb8068"
+    },
+    {
+      "start_time": 608,
+      "end_time": 632,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Stung, Alma retorted, \"more like sexual gluttony and narcissism.\" Pearl had backed off then: \"Or, talk about jazz as both vernacular and haute couture,\" she'd offered in compromise, and referred Alma to Michael Harper and Yusef Komunyakaa. But Alma found no way to say what interested her about their poems, let alone what might interest a roomful of literary critics."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "31158a09-4d75-4f6e-beab-e57d212ebc13"
+    },
+    {
+      "start_time": 632,
+      "end_time": 659,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alma tuned into spoken word, and saw how even the best, especially the best of these poets, were seduced into stand-up or sang silently for whatever reason, from sight. She tried to listen to rap, but it made her feel too white. Hip hop was no substitute for song. What little she understood of the lyrics of hardcore offended and repelled her."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "459bc1cf-3fb7-4d7c-839b-7842eece4b42"
+    },
+    {
+      "start_time": 659,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "She refused to return to the blues as a matter of principle. She had never gone with a man who wore hydrate pants, nor worked in a house of the rising sun. And while she often admired this one's technique, or that one's artistry, she didn't believe that anyone who now sang of having done so, had ever had either, no matter how well they reproduced blues form."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "a79538c9-df24-426e-8d6a-029946d42589"
+    },
+    {
+      "start_time": 681,
+      "end_time": 711,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Rap was the only form to evolve from contemporary circumstances. But the circumstances of which they spoke were not hers. She watched videos and went to galleries and clubs, deciding that what we mean when we said \"vernacular\", was really what we mean when we said \"Black\". The truth was that all of it--spoken word, hardcore, hip hop, performance, installation, whatever-- spoke to her but did not move her to speak, or at least to write the little occasional paper she had expected to produce."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "908179ba-47e3-43e1-8a04-db58b202c1d9"
+    },
+    {
+      "start_time": 712,
+      "end_time": 737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Horace sent her a copy of the jazz poetry anthology, and she had seen in its title a fusion of low -- that is, vernacular of slaves, for jazz was certainly that-- and high culture, and the so-called high culture, in less than a century in American life. She found in Rushin's poem the need for a word other than vernacular to describe the fusion she read there."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "cb21b2be-7482-46a8-9024-00006dc3503e"
+    },
+    {
+      "start_time": 737,
+      "end_time": 759,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Freedom came out of crossbreeding between master and slave, a kind of freedom at least. If the scatting meant anything in the poem, she thought, and she couldn't be sure of that until she heard the poem performed, it invited you to see that classless, castless and egalitarian society: Freedom. Or did it just mean that these were so much false hope?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "83f997b0-f364-4b74-b73b-153ac0428efb"
+    },
+    {
+      "start_time": 759,
+      "end_time": 785,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beside her, the previous speaker coughed nervously into his cupped hand. Alma turned an inquiring face to the panel moderator who was staring at her. She turned back to the audience and waited. \"Is that it?\" An incredulous make voice called from the back of the room. \"Sir, did you read the poem?\" she asked politely. There was some muffled laughter. Papers rustled softly and stilled as people began to read the two pages she'd handed out."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "82a051e4-0f81-4b04-b8fb-667702e5a813"
+    },
+    {
+      "start_time": 769,
+      "end_time": 770,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Williams laughing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "953192c0-bf9f-42b9-bd85-5433491beaa7"
+    },
+    {
+      "start_time": 775,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "b464c6dd-4b61-4c5a-b922-e5e5442f79cb"
+    },
+    {
+      "start_time": 785,
+      "end_time": 803,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And?\" Alma looked at the narrator expectantly. He nodded and smiled encouragingly. She leaned forward into her microphone, \"The End.\" The moderator stared at her again, \"Well, you can at least read the poem\". "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "da2e22d4-690f-44ac-9a4f-400f0d93dd33"
+    },
+    {
+      "start_time": 803,
+      "end_time": 818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He seemed, she noted, rather peeved, which rather peeved her, as her's was the only presentation that seemed likely to stay within the strict time limits that every other panelist had casually flouted."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "6d283ded-def2-490f-8614-8e5d44e3f351"
+    },
+    {
+      "start_time": 811,
+      "end_time": 815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "4bd23ebc-a816-41cd-aa98-b7c4e2615810"
+    },
+    {
+      "start_time": 818,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Once again, Alma stood behind the microphone. \"The Black Back-ups\", she announced. \"For Mary Clayton, Cissy Houston, Vanetta Washington, Dawn, Carita McClellan, Rosie Farmer, Marsha Jenkins, and Carolyn Williams. This is for all the Black women who sang back-up for Elvis Presley, John Denver, James Taylor, Lou Reed, etc, etc, etc.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "bfb43ff8-7026-42ed-9f4b-3f6f072fd5b7"
+    },
+    {
+      "start_time": 843,
+      "end_time": 861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I said Hey, baby, take a walk on the wild side. I said, Hey, baby, take a walk on the wild side. And the colored girls say: 'do do do doo doo. Do do do doo doo. Do do do doo doo.'\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "e066c1a8-5356-42f7-9026-729ac63f3c03"
+    },
+    {
+      "start_time": 853,
+      "end_time": 861,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Song"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "e25606d9-561b-4114-a5bc-a81b23cf5016"
+    },
+    {
+      "start_time": 853,
+      "end_time": 856,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "32d84c95-2c7f-4e51-a767-1a6d94703b5d"
+    },
+    {
+      "start_time": 861,
+      "end_time": 879,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"This is for my great grandmother Esther, my great grandmother Addie, my grandmother called Sister, my great aunt Rachel, my aunt Hilda, my aunt Thyme, my aunt Britt-- Breda, My aunt Gladys, my aunt Helen, my aunt Ellie, my cousin Barbara, my cousin Dottie, and my great-great aunt Veen.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "dbb0487f-ffd7-42e7-ab19-cbd3eae93a99"
+    },
+    {
+      "start_time": 880,
+      "end_time": 901,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"This is dedicated to all the Black women riding on buses and subways back and forth to the mainline, Haddonfield, New Jersey, Cherry Hill and Chevy Chase. This is for those women who spent their summers in Rockport, Newport, Cape Cod and Camden, Maine. This is for the women who opened bundles of dirty laundry sent home from Ivy covered campuses.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "ee3cf591-437c-4693-9dc4-9b76bc2715c7"
+    },
+    {
+      "start_time": 901,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And the colored girls say: 'do do do doo doo, do do do doo doo'. Jane Fox, Jane Fox, calling Jane Fox, where are you, Jane? My great aunt Rachel worked for the Foxes ever since I can remember. There was the boy whose name I never knew. And there was the girl whose name was Jane.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "00ff4633-fa28-443c-bb4f-f85da3894230"
+    },
+    {
+      "start_time": 903,
+      "end_time": 907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Song"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "cc09bf2b-be18-4de0-91bb-eb411240d460"
+    },
+    {
+      "start_time": 923,
+      "end_time": 946,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"My aunt Rachel brought Jane's dresses for me to wear. Perfectly good clothes, and I should have been glad to get them. Perfectly good clothes, no matter they didn't fit quite right. Perfectly good clothes, Jane, brought home in brown paper bags with an air of accomplishment and excitement. Perfectly good clothes, which I hated. It's not that I have anything personal against you, Jane.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "37c50781-bac6-4e77-aebf-7ca577ab33ab"
+    },
+    {
+      "start_time": 946,
+      "end_time": 972,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"It's just that I felt guilty for hating those clothes. I mean, can you get to the irony of it, Jane? And the colored girls say: do do do doo doo, do do do doo doo. At school in Ohio, I swear to God, there was always somebody telling me that the only person in their whole house who listened and understood them, despite the money and the lessons, was the housekeeper.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "bc3ca643-b5af-4b30-a99f-3745b7bdea55"
+    },
+    {
+      "start_time": 955,
+      "end_time": 959,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Song"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "18dc596d-066e-4ea7-a7e2-e7ed042b44c0"
+    },
+    {
+      "start_time": 973,
+      "end_time": 1000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"And I knew it was true. But what was I supposed to say? I know it's true. I watched them getting off the train and moving slowly toward the country squire with their uniform and their shopping bag. And the closer they get to the car the more the two little kids jump and laugh, and even the dog is about to turn inside out because they just can't wait until she gets there. Edna. Edna. Wonderful Edna, but aunt Edna to me or Gram or Miss Johnson or Sister Johnson on Sundays,\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "d3b380d9-ef3a-4150-8fad-c38ed30e6668"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1025,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"and the colored girls say: 'do do do doo doo'. This is for Hattie McDaniels, Butterfly McQueen, Ethel Waters, Sapphire, Sephronia, Ruby Begonia, Aunt Jemima, Aunt Jemima on the pancake box, Aunt Jemima on the pancake box, Aunt Jemima on the pancake box, Aunt Jemima in the pancake box. Ain't your mama on the pancake box?\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "990475bb-eed6-477a-8238-378cc5f71e86"
+    },
+    {
+      "start_time": 1002,
+      "end_time": 1004,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Singing"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "a884bdd2-4613-4745-bc27-af7d07c20d3f"
+    },
+    {
+      "start_time": 1025,
+      "end_time": 1053,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"Mama, mama, get off of that damn box and come home to me. And my mama leaps off of that box and she swoops down in her nurses cape which she wears on Sundays and on Wednesday night prayer meetings, and she wipes my forehead, and she fans my face for me, and she makes me a cup of tea and it don't do a thing for my real pain, except she is my mama, mama, mommy, mommy, mammy, mammy, mammy, mammy.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "d6abb4f4-e26e-47f1-930a-9d83ba401df8"
+    },
+    {
+      "start_time": 1053,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I'd walk a mile, a million miles for one of your smiles. This is for the Black back-ups. This is for my mama and your mama, my grandma and your grandma. This is for the thousand, thousand, thousand Black back-ups. And the colored girls say: 'do do do doo doo, do do do doo doo, do do do doo.'\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "6e2d0ec4-880f-46e7-ade1-5a5cc695d407"
+    },
+    {
+      "start_time": 1070,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Song"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "f6877ca9-e958-4c2d-8401-4df8006bf8f0"
+    },
+    {
+      "start_time": 1079,
+      "end_time": 1103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "c2bd0a40-861f-48e7-a014-cdcacf112aba"
+    },
+    {
+      "start_time": 1101,
+      "end_time": 1117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That poem is of course a prime example of how you can use the vernacular, and talk about the vernacular, and demonstrate the vernacular, and some other things too, all at the same time. It's a wonderful piece."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "9489f288-679a-4f26-859f-0d2fa2e59f41"
+    },
+    {
+      "start_time": 1117,
+      "end_time": 1142,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, for those-- maybe I should not say this, but I will say it anyway-- but for those of you who may be concerned about the gender makeup of the panel, there were two men other than myself who were supposed to be here. One of them bowed out early enough. And one has not shown, and I don't know why. What, I did talk to Sterling, well he did have some reservation about flying US Air, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "85a9c527-550d-4060-ab5b-1db19e406e50"
+    },
+    {
+      "start_time": 1142,
+      "end_time": 1169,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and said that he might even drive from Chicago here. So maybe he's tangled up in the mountains somewhere as we got tangled in mou-- mountains once. But my, we, my wife and I flew US Air and when we were coming into Pittsburgh, I told her don't look out the window, you might see something you don't want to see. And we got here safely and we have to go back US Air, so, but we were on a DC-9, a different plane."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "b2b02f8f-ef5b-4b13-8748-dbfb2e01a142"
+    },
+    {
+      "start_time": 1143,
+      "end_time": 1144,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "61ae38a5-ed42-44f8-b0c4-c4e85030cb6b"
+    },
+    {
+      "start_time": 1169,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We have some time left over for questions, discussion, whatever. So I am going to open, open the house up now to that and I hope you have some questions. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "b4011c97-926b-4f87-b658-ba03dd35db1b"
+    },
+    {
+      "start_time": 1182,
+      "end_time": 1189,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you want to ask a question, you can just come down, introduce yourself, and speak into the microphone. Great."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Joanne V. Gabbin"
+        }
+      ],
+      "uuid": "7ee66341-858f-4223-81a1-3455e584dc7b"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name's Darrell Stover. I harbor from DC, direct a performance poetry group called 'The Spoken Word', six years old. I first want to thank Elizabeth for voicing the whole aspect of performance coming out of the gay community,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Darrell Stover"
+        }
+      ],
+      "uuid": "50ea779e-140a-420a-9b67-fc79114144fa"
+    },
+    {
+      "start_time": 1191,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SP:Darrell Stover"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Darrell Stover"
+        }
+      ],
+      "uuid": "83ad5abd-a10d-4df1-84d7-62c62dc8818f"
+    },
+    {
+      "start_time": 1208,
+      "end_time": 1230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "specifically DC's own Essex Hemphill. My question regards specifically, if we're going to look at the matrix, and indeed, lift the poems off the page and let them speak, there is that aspect of performance whereby poetry is accompanied by music. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Darrell Stover"
+        }
+      ],
+      "uuid": "4fbb980e-df2f-4f32-8bc5-acf2bdc2af70"
+    },
+    {
+      "start_time": 1230,
+      "end_time": 1254,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I speak to the fact of what Amiri Baraka does, Jane Cortez, and others. I also speak to the rappers who sample. I also speak in regards to Eleanor Traylor, in regards to Larry Neal, I had the opportunity to examine Coltrane poems and perform Larry Neal's Orishas, just this past Saturday in a lecture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Darrell Stover"
+        }
+      ],
+      "uuid": "76579a23-fd26-4407-8318-374c32e07200"
+    },
+    {
+      "start_time": 1254,
+      "end_time": 1268,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I was wondering if the panel could address that whole aspect of the matrix in regards to poetry performed with music, be it blues, jazz, gospel, pop, or otherwise?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Darrell Stover"
+        }
+      ],
+      "uuid": "7bb0f299-b1a0-4f18-b5ea-3914b66a8db6"
+    },
+    {
+      "start_time": 1272,
+      "end_time": 1299,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would just say, one, uh-- Just a brief thing, which is that, um, some of the poets that you've mentioned, the poets that you mentioned up here who work with music, I guess what interests me is poetry that works on the page, and then the music adds another dimension to it. Um, I'm interested in work that can, can do all of that at the same time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "62f629bc-7903-4d8f-952e-111b5ff9fee5"
+    },
+    {
+      "start_time": 1299,
+      "end_time": 1314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't, I'm not sure what the question is exactly. But that would just be my, my comment on the people that you've mentioned, in particular, that their work is successful in different ways. In both of those in both of those modes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "64069376-34c1-4206-9bcd-e19a2aa37245"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think that, that you can gather that I am convinced that that is the original nature of it, of poetry. That it begins that way, I don't think anybody ever called measured word-- I don't know when. And you we don't know, when people began to call measured word and measured sound poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "7a20e2a6-3330-4d55-9e34-e9830b8309b4"
+    },
+    {
+      "start_time": 1316,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SP:Eleanor W. Traylor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "35f35e3c-75a2-430d-ae9d-8865969c6c49"
+    },
+    {
+      "start_time": 1340,
+      "end_time": 1370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But that's what it's always been, it seems, you know? When you read it through time, it's commitment on the page and all those things that accompany that, that my graduate students instruct me of is very interesting. But every poet has said I want to be read, heard, performed, not studied or what ever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "43f9a8ab-feee-4654-a2e4-72811314003e"
+    },
+    {
+      "start_time": 1370,
+      "end_time": 1395,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it is-- the whole event, to me, is a performance event. And the poet is most successful when his voice is performed, by himself, by others, in a concert hall, in a classroom, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "17f188f1-e7f3-4a97-845d-3293b6fe17c5"
+    },
+    {
+      "start_time": 1396,
+      "end_time": 1423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the performance of that magical orchestration, you know of sound with a measured, measured word is what it's all about for me. Oh, no. Oh, okay. I just said you, did you most of you-- I just said it, was-- what it's all about, I think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "43c7e2a2-0222-4be6-8438-0a82883d587f"
+    },
+    {
+      "start_time": 1423,
+      "end_time": 1425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "8bdd98e8-e598-4a49-93b2-c12b8f305007"
+    },
+    {
+      "start_time": 1432,
+      "end_time": 1460,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My question is for Mr. Aubert. Earlier, you made a distinction between folk and popular, but you didn't elaborate. And I wasn't totally familiar with the distinction you were making, I was wondering if you could speak on that. And I also was wondering if the use of black cultural products as commodities in our, in our capitalist economy has anything to do with the transition from folk to popular, and I don't know how familiar you are with rap, but if you could comment on whether or not you feel rap has made that that switch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "3f304956-3c90-4d7c-a59c-05ac6db38db8"
+    },
+    {
+      "start_time": 1461,
+      "end_time": 1486,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, I'm not sure that I'm prepared-- the reason why I brought up the topic of the distinction between folk and pop is because I wasn't prepared to talk about it, and I wanted to-- just simply wanted to raise it as a possibility for young people who want to look into this and such as yourself, you see."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "df1fbf72-043e-4f98-b0df-492cdd40705f"
+    },
+    {
+      "start_time": 1486,
+      "end_time": 1513,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it does seem to me that when you go from the folk to the popular, you do move into commodification more, you see. Even though I mentioned the Golden Gate Quartet, how many of you know the Golden Gate Quartet, You know? And I listened to the Golden Gate Quartet, those old recordings, and I hear rap. You know, they were rapping way back in the 40s and 50s, and what have you. Their records sold, but they weren't as commodified"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "dcb6e457-a560-41b0-be39-9e7cad31ff74"
+    },
+    {
+      "start_time": 1513,
+      "end_time": 1534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "as people are today. So I still sort of think of them as in the, in the, in the realm of the folk, although I don't want to get into dichotomizations either. Because I think things should go together rather than be, rather than be separated. So I would like to find, or to discover that there's a conflation, perhaps of the, of the folk and the popular. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "90b024f7-f66f-4112-8317-5dfae53c9c23"
+    },
+    {
+      "start_time": 1534,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's like a spectrum?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "83a60f84-fc60-4a84-ac73-4a4d2e04c585"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And but inevitably, we have to deal with spectra-- with spectrums, yes, I think that that may be a spectrum. But, and then a spectrum, of course, doesn't dichotomize it says you're either closer to this end or closer to that end. And somewhere along, somewhere along the spectrum, yeah. But I just posit that as an area of investigation for, for some young scholars who may be present at that moment, especially, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "3f087ce0-4384-4bb1-85fe-d42acfa68624"
+    },
+    {
+      "start_time": 1565,
+      "end_time": 1592,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think that things have to be integrated in art. I'm not fully given over to the idea that poetry is just for performance. I will never be given over-- because there are people who want to sit by the fireside and read a book. So the poetry has to be, to me to be written in such a way as to be able to perform itself on the page, as well as orally in an auditorium."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "f6bb513c-45a5-4500-bd72-c20833c5f7b9"
+    },
+    {
+      "start_time": 1593,
+      "end_time": 1612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think it should do both. And I think Don, Don Lee at the time now Haki Madhubuti was moving in that direction when he put out his book, I will-- We will, 'I Will Walk the Way of the New World'. And I saw some great potential in that book for development along that line. But then Haki stopped writing poetry. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "f2a79872-3cf2-420e-8db4-1111598f3c5a"
+    },
+    {
+      "start_time": 1612,
+      "end_time": 1635,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He started writing aphorisms, you see. But I can understand that too, because he's an activist and his vision of accomplishment was was a tremendous one and is a tremendous one which he continues continues to pursue in Chicago with his publishing house. And his, his school, you know, that he and his wife have."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "f7a8e066-46d5-4a6b-88b6-f2e66e8d20f1"
+    },
+    {
+      "start_time": 1635,
+      "end_time": 1654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And also he teaches at a university now so, you know, I think he-- I don't know why he gave up writing. The way he started writing in We Walk the Way of the New World. Maybe he did continue maybe I just haven't seen it, you know, it hasn't been-- Next."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "2e8c7eac-2ff8-4ffb-ba76-8d4a9fbf9e1a"
+    },
+    {
+      "start_time": 1654,
+      "end_time": 1681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My name is Shahara Brookins. I'm a graduate student at Brown University. Before I ask my question, I'd just like to say to the gentleman who just asked that last question, I'm working on the commodification of blackness and pop culture and literature. So I'd love to talk to you after. But my question concerns this whole performance aspect of poetry that we were talking about and how it's meant to be read in the oral tradition. I'm wondering, I've heard a lot of different people read a lot of different poems: "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Shahara Brookins Drew"
+        }
+      ],
+      "uuid": "8344aa0a-73f0-4773-b2f0-2bb9cddfe4ec"
+    },
+    {
+      "start_time": 1681,
+      "end_time": 1709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the author, him or herself, and then other poets or other people. And I'm wondering if there's a danger at all, in doing that, because every time the poem is, is read by different people, it sounds different all of the time. And I get different things out of the poem. And I'm wondering if there's ever a danger in performance, when it's not done by the author themselves of it being misconstrued, or the aesthetics and what the author or poet was intending actually changing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Shahara Brookins Drew"
+        }
+      ],
+      "uuid": "829a33f1-259f-4f1a-9f82-de1b3419c7a9"
+    },
+    {
+      "start_time": 1709,
+      "end_time": 1729,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think there's always that, that danger, I think, there's that danger, even in, in reading a poem. But the fact that you get, you know, the danger of it being misconstrued, or people misunderstanding, but that danger is there whether the poem is actually read,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "8d8384f1-4d0c-4602-b0e4-4456fff39e23"
+    },
+    {
+      "start_time": 1729,
+      "end_time": 1753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "or whether it is being, you know, performed by somebody else other than the author. And to me, in a way, it is, in fact, a kind of, uh, let me say two things: in a way, it's like the mark of a great work of art that, in fact, you get multiple and variable kinds of meanings out of it, it shouldn't mean that-- exactly the same thing every single time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "1056ee63-cd93-4f37-8957-9aede7cfab53"
+    },
+    {
+      "start_time": 1753,
+      "end_time": 1779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's not art, that's repetition, and, and that's rote. And at the same time, I do think that it's a good thing that somebody else performs the poem, and does it in a different way and is able to see and to bring forth, to evoke different kinds of nuances. I think that that's all a part of what the artistic spiri-- experience itself is supposed to be. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "7d9cf65b-247a-4a04-8237-86522dc9483f"
+    },
+    {
+      "start_time": 1780,
+      "end_time": 1792,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I think the poem should precede performance. Rather than start with a performance and then come up with a poem. I think you should start with a poem and then perform it if you're going to perform. So you'll have something to perform."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "f1d7c076-b7b9-42ac-a531-8979442d573e"
+    },
+    {
+      "start_time": 1792,
+      "end_time": 1794,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "cc30bfc4-9f3e-4bae-a5f9-441aff65f6b0"
+    },
+    {
+      "start_time": 1798,
+      "end_time": 1818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to thank the panel for its work. Tremendous, tremendous, I was really impressed with everybody. I'm Adam David Miller, one of the visiting poets. I came from the West Coast, Ms. Williams from the West Coast. You notice nobody's here from the West Coast. They didn't invite nobody on the West Coast."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Adam David Miller"
+        }
+      ],
+      "uuid": "a1342165-486f-4109-9e44-db3ec3f993ad"
+    },
+    {
+      "start_time": 1818,
+      "end_time": 1837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Anyhow, they, I'd like to ask the panel, if they'd speak to spirituals and the gospels in relation to this vernacular, work? Spirituals, the spirituals and the gospels. Could you do that? Could you bring that into the discussion?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Adam David Miller"
+        }
+      ],
+      "uuid": "c8a5b985-02b9-471e-bdb9-5f620ef357f3"
+    },
+    {
+      "start_time": 1830,
+      "end_time": 1833,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Inaudible]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "22b35b6b-d210-4a31-8be8-95ffd4b5aae0"
+    },
+    {
+      "start_time": 1837,
+      "end_time": 1839,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And in, in how--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "0f6c9c42-9745-4bc8-ab11-b5dc712158c3"
+    },
+    {
+      "start_time": 1839,
+      "end_time": 1847,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the relation to the vernacular in the poetry, as a source for the poetry and so on, the whole matrix, the mix, where this stuff comes from? Is that--?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Adam David Miller"
+        }
+      ],
+      "uuid": "06b67823-ad87-4d36-80e5-8411ccedfd5c"
+    },
+    {
+      "start_time": 1847,
+      "end_time": 1868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's one of the reasons I say, I'm very glad that these are going to be published because I think that that's, in fact, exactly what Eleanor Traylor's paper was talking about. The fact that when we-- that so very often when we talk about the vernacular, or we talk about popular culture, we talk about folk or whatever, the oral culture,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "3bbc7c62-c8e9-4bbd-94cb-c2e261087f6e"
+    },
+    {
+      "start_time": 1868,
+      "end_time": 1897,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "we tend to leave out the spiritual aspect of it, when in fact it is the spiritual that is, you know, kind of like the root of all of that, at least in terms of historical discovery. So that it's there. Literary people or academic people, for whatever reason, tend to ignore it. And in some ways, that's a bad thing, because it gives a kind of skewed aspect to the culture."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "84979bd3-1e24-4fb7-9a6e-76ceb452d83a"
+    },
+    {
+      "start_time": 1897,
+      "end_time": 1924,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We, as far as anybody outside of the culture knows, we are a totally, almost a completely secular people. And that whatever, you know, our spiritual life is, it doesn't have any bearing on, uh, quote unquote, 'culture' we create. Which is how you can get into calling some of these, calling a lot of things that, that are questionable, or at least controversial, as far as culture is concerned, calling it culture. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "1ee8d2d5-896b-46c2-9c26-f959ddfd124b"
+    },
+    {
+      "start_time": 1924,
+      "end_time": 1947,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Right, but it's there and for the people inside of the culture itself, I mean, it becomes almost like something secret and hidden. And because it is secret and hidden it's not as open to exploitation and misuse in the way that other aspects of the culture have become, kind of like the common property of everybody, of everybody in America."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "01258ef7-3797-455b-a9e6-a727e710a559"
+    },
+    {
+      "start_time": 1947,
+      "end_time": 1982,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of that may be breaking down now because more people inside of the culture inside of the field are saying to themselves, or asking themselves, why is it that I am, you know, calling the the real, the authentic, only what happens out in the street when in fact Black people live and exist and work and create all over and that we have always created within the church. And what we've done is, you know, really helped to change what the definition of church and what the definition of religion, what the definition of spiritual is,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "2e74efbb-e706-4f18-80a0-db67db920729"
+    },
+    {
+      "start_time": 1982,
+      "end_time": 2005,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in the same the way that what we have done has helped to change what is the definition of poetry, what is the definition of high and low culture and everything else about American life. So I think that it's it's there. And certainly it's here on this panel it just hasnt gotten the kind of scholarly attention that other aspects of the culture have gotten."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "195cbbec-fea6-4c59-9f2a-35838f8fa8e0"
+    },
+    {
+      "start_time": 2006,
+      "end_time": 2034,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would disagree with that a little bit. But I think it's maybe just a matter of perspective. But um, I don't know, my, my sense of things is that actually, that the sacred is overemphasized in the way that Black people are portrayed in the media at large. Our leadership, I think, is presented as being almost exclusively sacred, or from the church in, in, in one way or another."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "0e7b3805-ad49-411c-a1b6-5bcdb30258e7"
+    },
+    {
+      "start_time": 2034,
+      "end_time": 2067,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It seems like-- that sometimes, I mean, I think of you know, Bill Clinton just loves when Black church people sing, you know. I mean when you when you think about what, what literally does-- what are the are the points, and I'm not talking about the depth of that access, but the points of public access, regardless of what the representation is, it seems to me that in some ways, the sacred is disproportionately represented. That's just my, the way that I see it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "1715fbcc-21b1-48e4-bcaf-c68758c94680"
+    },
+    {
+      "start_time": 2067,
+      "end_time": 2097,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think in terms of spirituals in particular, I know that when I teach like a survey course in African American poetry, I always talk about not only spirituals but also folktales, folk sayings, a lot of the aphorisms that Sterling Brown lists for example, in in 'The Negro Caravan' as a way of thinking about what was there in our poetic tradition when there wasn't as much of it written down as there is now "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "55d70d00-265f-497a-bdcb-675f6db49ba3"
+    },
+    {
+      "start_time": 2097,
+      "end_time": 2110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "for all of the historical and political and cultural  reasons that we can, that we can talk about. So I see that linkage as being, as being really important. But I'm interested in this question of..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "565a2073-38a1-4b04-b5ca-e89e49fa4d27"
+    },
+    {
+      "start_time": 2110,
+      "end_time": 2128,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You see I think that, you know, the, I think our leadership has been, at least, you know, kind of, and when I say public now, I mean public in the sense that it is portrayed in terms of the white press, that that has been disproportionately, you know, from, you know, the religious community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "9a6dd20a-098d-4ddc-b692-ee7afd732086"
+    },
+    {
+      "start_time": 2128,
+      "end_time": 2155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But in terms of, well, it's almost like we don't have any other kind of life, except you are either in the church or elsewhere in the whorehouse. And those are the two extremes that are, that are portrayed. And when we talk about-- when I, when I speak about what we do in the university, what we have always emphasized is a circula-- secular aspect of life. And that I think that has to do with the whole humanist tradition out of which, you know, most of us work. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "522c55cf-dbf6-4c2a-8964-ad5c9f10c0ef"
+    },
+    {
+      "start_time": 2155,
+      "end_time": 2179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That people, even when you are religious, and you go to church, and this is really a part of your life, you ver-- most often do not bring that, obviously, or directly or overtly to bear in your, in your work. I mean, you always get a kind of surprise when at least I do when singers get up and they're accepting the award. And they say, Well, first of all, let me give glory to God."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "bc238391-65f6-4f48-9e55-a5c86fbccabf"
+    },
+    {
+      "start_time": 2179,
+      "end_time": 2190,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you imagine some literary critic standing up and saying, Well, first of all, let me give glory to God. Now, I'm going to tell you my title. I mean, you just don't do that in the academic world."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "9fbe8d95-4471-449e-a521-7c2aed3d17ff"
+    },
+    {
+      "start_time": 2190,
+      "end_time": 2219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You don't do it anywhere. Really, because I heard someone say, of a gospel group on television, once this group not only sings the gospel, this group lives the gospel. And that, to me is an important point. Because when-- I use a great deal of , a lot of religious and spiritual allusions in my poetry, but I'm not a church-going person, and I doubt that I ever will be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "a320ab1d-e8ea-4bc8-9aca-a222e161445a"
+    },
+    {
+      "start_time": 2219,
+      "end_time": 2219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Audience member laughs]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "406a5597-3da6-4517-a02f-0f64f105d35c"
+    },
+    {
+      "start_time": 2219,
+      "end_time": 2246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, but I'm a very spiritual person. But, and I recognize the role that that religion and the church has played in the lives of Black people. I recognize it and I applaud it, and I celebrate it in my poetry. You see, and if a person can be a true believer, that is an accomplishment, but one that I'm not sure that I'm capable of. I never was, I never will be."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "c9b351ae-b3d6-4e73-a21a-1b2f2b02b7cc"
+    },
+    {
+      "start_time": 2248,
+      "end_time": 2279,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That and I don't, and I can't imagine anybody writing religious poetry today that doesn't sound like a like, like, like, jingoistic, or what have you. I'd like to see somebody do the kind of religious poetry that John Donne and George Herbert and Gerard Manley Hopkins did. I'd like to see that, but I don't think, I think the time has passed for that. I don't think it can be done today. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "1cbe58d2-51ca-4cf6-9d7b-6ad388086230"
+    },
+    {
+      "start_time": 2274,
+      "end_time": 2275,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But gospel is-- is what"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "2bc11d7c-648b-40e1-b0bf-ede97a7146b1"
+    },
+    {
+      "start_time": 2279,
+      "end_time": 2289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think contemporary gospel is really one of the most exciting forms, it's, it's the most exciting form as far as I'm concerned, in and of itself, and that is, in fact, religious poetry."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "2fb5ff62-3511-4127-af9c-e55a45132e22"
+    },
+    {
+      "start_time": 2284,
+      "end_time": 2285,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In itself."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "70bc65f7-72a9-43f3-ba7e-67d6e8b3c513"
+    },
+    {
+      "start_time": 2290,
+      "end_time": 2293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is also a tradition that I..."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "d4d3985c-1490-49e6-b376-5a1f7faf9b29"
+    },
+    {
+      "start_time": 2291,
+      "end_time": 2296,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Audience member clapping]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Applause"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "2f5ddcc9-d0b0-417c-a6b1-da95bf6d54c5"
+    },
+    {
+      "start_time": 2296,
+      "end_time": 2297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I disagree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "81be107c-7cad-490b-ad24-98e1418ac7b8"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There is also a tradition-- Said W.E.B."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "060e3dec-9040-457b-a22b-7222649a1dfa"
+    },
+    {
+      "start_time": 2297,
+      "end_time": 2301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "SP:Eleanor W. Traylor"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "ec1ba1d6-a93c-4e16-853a-9c497138569a"
+    },
+    {
+      "start_time": 2298,
+      "end_time": 2300,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "ac21c619-836c-489b-98a6-464576c57062"
+    },
+    {
+      "start_time": 2301,
+      "end_time": 2304,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "38c833f8-4be3-45b5-8468-91a5bcce6b2c"
+    },
+    {
+      "start_time": 2305,
+      "end_time": 2309,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Contemporary gospel has absolutely-- I like traditional gospel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "7550ebaa-3128-4b4a-a929-f2d4ae488eee"
+    },
+    {
+      "start_time": 2309,
+      "end_time": 2324,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just want to say one thing, if they'll let me. There is a tradition in the literature, that is a commemorative tradition, that people do not speak about. It's highly ceremonial. I've read some of it, you've heard some of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "1e1bb203-05e2-44ae-b8a2-4fadbaa9aa22"
+    },
+    {
+      "start_time": 2324,
+      "end_time": 2354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You know, and it derives from a place which is not a sorghum, a flowing, syrupy kind of religious, you know, or a hip-shaking secular place. It's kind of balanced, integrated vision of life that takes both into account."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "d0ea386c-380c-4059-92de-9dcb8c9bd85f"
+    },
+    {
+      "start_time": 2354,
+      "end_time": 2370,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is a poetry which speaks of the daily round of living, that is the blues ain't it. 'I woke up this morning. Blues all around my head', and so on."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "01e9e6f7-23c3-4be5-b013-b254e226440d"
+    },
+    {
+      "start_time": 2361,
+      "end_time": 2363,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Song"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "6c7340b5-999d-4a7c-9397-9fd76df2cfbe"
+    },
+    {
+      "start_time": 2365,
+      "end_time": 2368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Traylor and Aubert singing]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Genre",
+          "tag": "Song"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "3d7380fa-4f03-42cb-8687-ad9d67bda753"
+    },
+    {
+      "start_time": 2370,
+      "end_time": 2394,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then there is that voice that says, 'I-- my mouth, is the mouth of calamity, which has no mouth. I speak and joy bursts in the new sun'."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "3655cca3-38ed-4d52-937f-3baf7d755986"
+    },
+    {
+      "start_time": 2394,
+      "end_time": 2419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nothing sentimental, you know about any of that. You know all lean, no fat. It is not drippy, it is not propaganda, it is not hype or slander. It comes from a sort of clear and head-on, head-on observance, you know, of the modes of living."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "a90d166a-6e7c-4062-aa69-3bfd1f017f00"
+    },
+    {
+      "start_time": 2419,
+      "end_time": 2454,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I tried to give voice to some of that which is, which expresses that. I think that Sterling Brown poem is incredible. Raising that vision of salvation. Tha ain't got nothing to do with denominational you know, religion, fundamentalism, you know, the, the convinced, self-appointed, right, that will curtail the joy of anybody's life, but its own hidden."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "1ea610ac-39c8-4b29-b6c5-958c4d451627"
+    },
+    {
+      "start_time": 2454,
+      "end_time": 2479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nothing to do with that. About an old man, dreaming of planting his spring garden. Butter beans, flowers, sugar corn for grace, And for the little fella runnin' space, as a whole vision of life. I never want to be without it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "c6e7f816-d8d6-4ead-8225-e0fd402295e5"
+    },
+    {
+      "start_time": 2479,
+      "end_time": 2503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Never want to be with that sound, I want poetry where I can-- it allows me to crawl into that space. I want somebody dreaming about planting something for me to eat. And for my children to have a place where they can enact their childhood still, not raped of their innocence."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "81b8dd9b-721e-45e6-883d-cf2e3e72277d"
+    },
+    {
+      "start_time": 2503,
+      "end_time": 2520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So it's that realm. Such a good deal of that. You know, poetry I don't think is sounded much. I don't think the poems, really are sounded much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "57284c55-4801-4477-8418-9ba912c917e1"
+    },
+    {
+      "start_time": 2518,
+      "end_time": 2525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I think it's [inaudible]. We have one more question over here. I think we can take."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "fbc9f643-74a4-4f99-9436-b47ae478acb8"
+    },
+    {
+      "start_time": 2525,
+      "end_time": 2526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "--actually she's been waiting, yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "410f8f3e-a47e-468c-8a5d-024a4e21b8a1"
+    },
+    {
+      "start_time": 2526,
+      "end_time": 2531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You were first?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "2912458b-4046-47a1-845d-25978a224ccd"
+    },
+    {
+      "start_time": 2527,
+      "end_time": 2528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "da6cf43e-4876-4252-9aa0-99f45f46706c"
+    },
+    {
+      "start_time": 2528,
+      "end_time": 2531,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. We'll have two more questions."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "e8ccfb1c-ecfd-4f02-ab8b-e6d05a3f5f7b"
+    },
+    {
+      "start_time": 2531,
+      "end_time": 2532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "8b2f6ce1-e4ff-491f-a95f-f0ad2943714a"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2534,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, three more."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "c4e9b96c-018c-441d-afed-7d8b15bed693"
+    },
+    {
+      "start_time": 2534,
+      "end_time": 2535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Laughter]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Laughter"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "0822de9e-7bb4-4198-b43c-a8922323588a"
+    },
+    {
+      "start_time": 2536,
+      "end_time": 2564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, my question segues into your your topic here. I was very interested in the panel commenting on the profound, to me profound, question that was raised in, in Dr. Alexander's talk, which seems to me to go to the the definition of what will be the future of African American poetry"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "f8af2eb7-abb5-4c00-95f8-4f3eb79671fe"
+    },
+    {
+      "start_time": 2564,
+      "end_time": 2581,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "in her mentioning in the, the poetry of Kevin Young and Carl Phillips. In effect, how much of the African American tradition should be jettisoned, or what is relevant?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "972eeb17-740f-430e-aaa2-2c8907aad232"
+    },
+    {
+      "start_time": 2581,
+      "end_time": 2597,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd like very much to have the panel discuss this issue about, in effect, a definition that young poets are dealing with of what is in effect, what is African American poetry? And what will it be in the future?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "fa9f67d2-ef1e-467c-993a-cc8991d4ce3a"
+    },
+    {
+      "start_time": 2597,
+      "end_time": 2604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Elizabeth used the term dyspepsia was that, would that relate to what he is saying? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "ec248534-c19c-43f4-93b5-29d934862f24"
+    },
+    {
+      "start_time": 2604,
+      "end_time": 2618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, that was just to describe a little kind of a dissatisfaction or an attitude or a looking for space uncomfortably, by some of the younger poets."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "043170ff-10ee-46a2-81c9-e6a80c4286d0"
+    },
+    {
+      "start_time": 2618,
+      "end_time": 2638,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There seems to be a race weariness. We've become so weary of being Black in America that I detect this among a lot of young people who want to shove it aside and seek other other means of, if you want to use the term, redemption. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "2f292aaf-e053-41b7-9e5a-cf2dc859005b"
+    },
+    {
+      "start_time": 2640,
+      "end_time": 2665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Other than the-- other than encounters with our history, and the facts of what, of our lives, and the continuity of the agony of our lives. They want to take a shortcut. They want to take a shortcut and one of these shortcuts I see is fundamentalism, religious fundamentalism."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "8e61a29e-b2dd-4c0b-b308-d6128b1740f0"
+    },
+    {
+      "start_time": 2665,
+      "end_time": 2684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They figure, well I'm tired of the things of the world I'm going to save my soul. I'm going to go to heaven. And I thought maybe that's um, what you meant by the term dyspepsia, also. I'm done."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "60544063-78db-4c3d-b646-9c527dc5aa6c"
+    },
+    {
+      "start_time": 2684,
+      "end_time": 2715,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, but also, I mean, I think that there is that. But I think there's also a lot of blackness policing going on by peers and by an older generation in some cases, that is very frustrating sometimes, for young Black people trying to find their voice, that there are a lot of versions of blackness that are very prescriptive, you know? Well, you know, the real thing is, you know, whatever. Uh,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "ca02272e-7ac2-43fa-b3b7-ee340ebc38e3"
+    },
+    {
+      "start_time": 2715,
+      "end_time": 2736,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gangster rap is the real thing, or, you know, the real thing is church, or the real thing is, I mean, we could name any number of different versions of 'the real thing' that I think sometimes have made it, made it difficult for, for young Black people who are saying, but the voices inside my head are telling me a lot of different very complicated things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "088630c4-83c2-4251-92e4-c682c125d728"
+    },
+    {
+      "start_time": 2736,
+      "end_time": 2752,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would just return to this-- I think this Ellison quote is really important and helpful: 'We create the race by creating ourselves, and then to our great astonishment, we will have created something far more important: We will have created a culture'."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "1564712e-cdb0-4c27-917e-b0a46a3dc773"
+    },
+    {
+      "start_time": 2752,
+      "end_time": 2780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, I think in a way, one answer to your question, which may sound like a cop out, but I don't think that it is, is that you know, it is for each Black person to listen to those voices and answer for themselves, what is to be salvaged? What is to be refigured? What is useful? And what is their particular vision of their own Black selves? And then, and then how does that fit into a larger context?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "51502c26-37e1-45d8-8b1c-0a3793c38af8"
+    },
+    {
+      "start_time": 2780,
+      "end_time": 2796,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Because I do think that in the post-integration era that we're in now, that questions of, you know, who are my relatives, who are my ancestors, I do think that they're, they're more complicated, more complicated to negotiate."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "33f05d61-39dd-4bf5-81c6-2a67ad898b9c"
+    },
+    {
+      "start_time": 2797,
+      "end_time": 2815,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I think that it's, um, not necessarily saying that each person needs to be solipsistic, to say that each person needs to answer that question for themselves. And then perhaps even, we could say, it's not necessarily the writer's role, but it's, you know, sort of critics' and commentators' role to be additive"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "ee71bce2-8578-46ca-b8ca-3f9f017b87d2"
+    },
+    {
+      "start_time": 2815,
+      "end_time": 2837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and to say, Well, you know, I see this poet and this poet and this... let's, let's step back and see what's happening in, in black expressive culture at this moment, and not so much for the individual writer to have to place themselves in the history of the present tense. That's what I'd say."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "efb5bf70-7586-4880-801b-89b369186026"
+    },
+    {
+      "start_time": 2837,
+      "end_time": 2857,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But that's been the tradition. Writers have always done it. The whole miracle of Black poetry is just that kind of speaking out. There are always prescriptions of one kind or another. And the creative voice usually violates them. And it should, and that's what it means, and it will."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "784197ae-4bf3-4be6-98ee-3101aa4cea05"
+    },
+    {
+      "start_time": 2857,
+      "end_time": 2882,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And nothing should be vetted, be jettisoned or nothing sacred or nothing can. All of it will be used somehow or another. I mean there are no should be-s by the dire--. There are surprises, miraculous, wonderful surprises. And those surprises give us the ongoing, flowing literature that we have, I think."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "07a5287f-eccc-46c9-abf1-f7c11e9f787d"
+    },
+    {
+      "start_time": 2882,
+      "end_time": 2903,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All ages have produced their what, anxiety, neuroses, anxiety of influence. But, and this one, I don't think necessarily more than another time, except that the issues are probably more brave."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "730a15aa-1312-4a51-8aa1-ec5e0fe345f2"
+    },
+    {
+      "start_time": 2903,
+      "end_time": 2908,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You dont think integration has changed things radically?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "02163ad9-a398-4e3a-9d61-3f9c5ff6e466"
+    },
+    {
+      "start_time": 2908,
+      "end_time": 2933,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I think integration has changed, Yeah, but I-- yes. But as I said before, I think that much is the difference between whether those are posed as political questions, or aesthetic ones. You know what I mean? As political questions-- Not that the two don't conjoin, of course."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "f977e230-d750-4517-8adf-4ed4afb96bd5"
+    },
+    {
+      "start_time": 2933,
+      "end_time": 2963,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But I think that there are answers, and acute ones, you know, when we turn the lens on one, or the other, at a time and then bring them together. Yes. It has posed-- but in the whole business of, of saying to people 'Stop, you're saying nasty things about women.'"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "bbf19fe3-b06c-46a7-9bce-7cba0571b6d0"
+    },
+    {
+      "start_time": 2963,
+      "end_time": 2995,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "is a whole new leap, right? People used to do that with impunity, did they not? Now that's a whole other thing. The whole business, as you pointed out, people addressing in public-- I mean, we take these things for granted, they are not for granted things to take-- their sexual preferences, is, is an age, you know, phenomenon."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "dc9e9418-19f2-46c9-8d0c-783df3ad261c"
+    },
+    {
+      "start_time": 2995,
+      "end_time": 3019,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And there has been no muting of voices about any of this. You've had a profusion I mean the conference is well named, a Furious Flower. No one is stopping, no one is obeying. People are crafting language that 50 years now, people will be on a panel like this reading their poems talking about And see, And see, And see, this is archetypal."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "37c59180-fc79-487f-b80b-4a0bbe22b9de"
+    },
+    {
+      "start_time": 3019,
+      "end_time": 3043,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So. It's a continuing, don't you think? I mean, So what if folks are feeling a little crampy-toed? That's fine, then they have to make shoes, right? That's what it's all about the creative effort, making shoes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Eleanor W. Traylor"
+        }
+      ],
+      "uuid": "2b080700-9d98-4eba-abb1-344ca67778bc"
+    },
+    {
+      "start_time": 3043,
+      "end_time": 3046,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can we go to the next question please?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Unknown"
+        }
+      ],
+      "uuid": "d518daa4-adf0-46a0-a5fb-c9fa7b0c2edb"
+    },
+    {
+      "start_time": 3046,
+      "end_time": 3068,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Good morning, my name is Monifa Love. And we're going to be a little long in the build up to the question. Sun Ra, in an interview, said that he was playing a music that he felt was part of the music that kept the world together. And that he definitely felt without certain music being played, the world would fly apart."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Monifa A. Love"
+        }
+      ],
+      "uuid": "5de50fbe-007f-4a76-906d-4899853978e2"
+    },
+    {
+      "start_time": 3068,
+      "end_time": 3086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Going back to the question before about spiritual issues, poets amongst themselves talk about writing poems that will turn people inside out. But we don't talk about that either as a political issue or an aesthetic issue."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Monifa A. Love"
+        }
+      ],
+      "uuid": "bdf0010c-e34e-4acb-b884-2ac9af7322db"
+    },
+    {
+      "start_time": 3086,
+      "end_time": 3106,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you think that people, is there a place where we can talk about what we think we're doing on the page beyond personal expression, beyond protest? But somehow, 'In the beginning, there was the word...', kind of idea on the on the page? Do you understand what I'm trying to get at?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Monifa A. Love"
+        }
+      ],
+      "uuid": "2447f4b3-5dc5-4681-9ad3-5ff0f17e73f3"
+    },
+    {
+      "start_time": 3108,
+      "end_time": 3132,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think I kind of understand what you are trying to get at, But I'm not sure of, um, if you're using the word talk, metaphorically, meaning is there-- you know, do we write about these things also? Or, or what? But it also seems to me that what you are talking about, for me at least, is a very, you know, private kind of question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "e53248eb-9310-455c-95a1-5cb4fc248bde"
+    },
+    {
+      "start_time": 3132,
+      "end_time": 3153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And that while I'm willing to, you know, to really talk about a technique, and how you achieve certain kinds of effects, I'm less willing to talk about what for me is like the beginning or, you know, on and on, in those kinds of terms, because, as I say, I mean, it is very personal, it is very private."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "c0dd776a-8943-4b23-b59e-ea4431530b0d"
+    },
+    {
+      "start_time": 3153,
+      "end_time": 3178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And in some sense, I guess I kind of have the feeling that when you begin to probe too deeply into certain sources of your own art, at least for me, I, I just really want to back away. I'm not wanting to expose that in the way that something has to be exposed, or at least the attempt made when you begin to put certain things into words."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "e15d5373-26c3-49e6-ab1f-2ead37e1f729"
+    },
+    {
+      "start_time": 3179,
+      "end_time": 3195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And I would just give, um, two off-the-top-of-my-head recommendations. To turn back to Robert Hayden's poetry, and to go and think about, I mean, the way in which his work is very much informed by his being Bah?í???¡,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "163c7170-f53a-49e1-83ab-25f4be7e076b"
+    },
+    {
+      "start_time": 3195,
+      "end_time": 3217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "but also, I think, is explicitly striving to address some of the spiritual questions that you seem to be interested in. And also, there's a new book by Cyrus Cassells, called 'Soul Make a Path through Shouting' that just came out from Copper Canyon Press that I think you might find addresses some of those spiritual concerns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "7b4d597b-b39f-4228-938b-43c850d6dcdb"
+    },
+    {
+      "start_time": 3217,
+      "end_time": 3219,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One question here, please."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "15b67002-96bc-4272-9150-58252d49bac6"
+    },
+    {
+      "start_time": 3219,
+      "end_time": 3246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, my name is Mylea Thompson, and I'm from Norfolk State University. My major is English, and I'm an undergraduate. The question I have for you this morning, is can you please tell me why a poem should have more than one meaning. I, as a poet, sometimes when I write, I only have one thing to say, and that's exactly what I mean, when I put it down. Why do you feel that it is wonderful for a poem to have so many different meanings?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Mylea Thompson"
+        }
+      ],
+      "uuid": "11da838a-91a2-45fb-8200-3440782ccef1"
+    },
+    {
+      "start_time": 3246,
+      "end_time": 3267,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think I actually said so many different meanings. I said something about, you know, bringing, evoking different nuances, and, you know, that kind of thing-- that it doesn't mean exactly the same thing every single time. But even though you have said exactly what you want to say in your poem, doesn't mean that I'm going to get exactly what you have said out of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "27201383-bda4-4ff5-b380-16ef48d47435"
+    },
+    {
+      "start_time": 3267,
+      "end_time": 3282,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I may, in fact find not something, we hope, you know, entirely different because I think if it's an entirely different from what you intended, then you the writer has failed, but that I may find something more than what you intended."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "d623c9b9-223e-4f4e-a767-5cb1a7813635"
+    },
+    {
+      "start_time": 3282,
+      "end_time": 3302,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And, you know, using what you, you know, the basic word, I may in fact come to, you know, something that, you know, you may have wanted me to get to A and I get to A and go on to B because it's there and possible given the associations of images, of words, of sounds, and those kinds of things."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "65d003e3-7bf0-4bad-ab2c-8fd63f5f8d10"
+    },
+    {
+      "start_time": 3302,
+      "end_time": 3320,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you don't get something different, not so much different, but something new, a kind of refreshed feeling out of a work of art, whether it is a poem, or a picture, or a whatever then as I say I don't believe that it really-- it's not doing its job."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "b2f89793-58e9-4de3-99d3-eda070f8bc89"
+    },
+    {
+      "start_time": 3320,
+      "end_time": 3343,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That you want to find something else there. When I go back and reread things, as you know, we all periodically do when I look at a poem, look at a picture again, I'm looking for that, that thing that I missed the first time, because it's not really possible to take the whole of it in at one glance."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Sherley Anne Williams"
+        }
+      ],
+      "uuid": "59adb139-3513-4d5a-94ab-4d0724d735ad"
+    },
+    {
+      "start_time": 3343,
+      "end_time": 3371,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And also, I mean, I agree very much with what you're saying and feel quite militant about it actually, that, you know, poems, good poems are living documents. And I say that as someone who writes them, and someone who reads them. Because, you know, while, I mean sloppy reading is one thing, and let's just put that to the side. I mean, I think if you read something, and you don't, if someone's not paying attention to what you have put forward on the page, and they want to make it completely their own thing, well, then go write another poem, that that's something else. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "1d219aef-11cd-407e-85f9-8acfa706e078"
+    },
+    {
+      "start_time": 3371,
+      "end_time": 3393,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But it seems to me that once I write something, it goes out into the world, and then there's someone like me on the other end, who says, you know, who is to know precisely precisely what Robert Hayden or anyone whose poetry has been important to me-- what exactly they meant?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "8364ee1a-0936-48dc-9933-67a9564a29b6"
+    },
+    {
+      "start_time": 3393,
+      "end_time": 3417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They've given us something, and then I think it's our job and our great fortune, to be able to regard it, pay close attention to it, and then make the associations that, that we will. I think that that's-- that's what makes art great and that's what makes it more than just a telephone call, you know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "ff1ddd55-9af8-45ef-a5e7-b742929beb8f"
+    },
+    {
+      "start_time": 3417,
+      "end_time": 3423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for coming, and let's show our appreciation again for the members of the panel."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Alvin Aubert"
+        }
+      ],
+      "uuid": "d2c2de11-b0b0-49fd-a201-8cf8217e52d2"
+    },
+    {
+      "start_time": 3421,
+      "end_time": 3433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Applause]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Nonspeech",
+          "tag": "Applause"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "5ed5d079-e57d-48af-8c06-665f9e20cf01"
+    },
+    {
+      "start_time": 3423,
+      "end_time": 3424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you sir!"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Elizabeth Alexander"
+        }
+      ],
+      "uuid": "eb781062-e9c1-423f-b235-f279b3fa01aa"
+    }
+  ],
   "event_id": "0d3d500b-34d9-44f4-a786-7f8870c4647f",
   "set": "Tagged Annotations",
   "source_id": "de1ec126-2462-4266-8787-0f621e95e381"
